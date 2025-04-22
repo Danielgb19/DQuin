@@ -60,4 +60,24 @@
 #    print("el numero es par ")
 # else:
 #    print("el numero es impar")
-   
+
+#for cantidad de notas
+
+# print("ingrese cantidad de notas ")
+# cantN=int(input())
+# suma=0
+
+# for i in range(cantN):
+#     print("ingrese la nota ", i +1)
+#     nota=float(input())
+#     suma=suma+nota 
+# prom=suma/cantN 
+
+# print("su promedio es",round(prom, 1))
+
+# if prom>4 :
+#    print("usted a aprobado ")
+# else :
+#    print("usted a reprobado ")
+
+# print("su promedio es ", prom )
